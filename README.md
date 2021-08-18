@@ -1,16 +1,6 @@
-# flutter_application_2
+# Aplicacion de palabras en español infinitas
+<p>El programa generador de palabras infinitas en ingles que se muestra en el tutorial de flutter se completo con exito, sin embargo, no pude realizar la traduccion de las palabras la imagen 2 muestra la funcion contruida para traducir las palabras</p>
+<img src="/images/words" title="imagen 1"/>
+<img src="/images/traductor" title="imagen 2"/>
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
